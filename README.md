@@ -5,9 +5,7 @@
 
 Bay is a simple theme for Jekyll. [[view live]](https://eliottvincent.github.io/bay)
 
-Inspired by [dangrover.com](http://dangrover.com/). Current theme used at [eliottvincent.com](http://eliottvincent.com/).
-
-![](/screenshot.png)
+Inspired by [dangrover.com](http://dangrover.com/). ![image](https://user-images.githubusercontent.com/99769696/161641027-bf627b3d-5127-4ee4-b2fa-bbd0c32d4e87.png)
 
 ### Installation
 
