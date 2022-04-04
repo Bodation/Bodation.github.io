@@ -73,6 +73,8 @@ Open the `_config.yml` file and add the following:
 footer:
   show_powered_by: true
   contact:
+  
+  [Contacto](Contacto.md)
     - name: Email
       value: yourmail@domain.com
       link: mailto:yourmail@domain.com
