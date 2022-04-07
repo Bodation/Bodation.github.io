@@ -8,7 +8,7 @@ profile_picture:
 <p>
 <strong> 
   BIENVENIDO!!
-  Estas invitado a la boda,
+  Estas invitado a la boda
   </strong>
 </p>
 
