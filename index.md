@@ -12,6 +12,6 @@ profile_picture:
   </strong>
 </p>
 
-[Contacto](pruebas.md)
+[pruebas](pruebas.md)
 <p>
 </p>
