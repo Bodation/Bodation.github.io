@@ -6,7 +6,8 @@ profile_picture:
 ---
 
 <p>
-  BIENVENIDO!!! </a>.
+  BIENVENIDO!!
+  Estas invitado a la boda,
 </p>
 
 <p>
