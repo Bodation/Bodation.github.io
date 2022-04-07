@@ -1,3 +1,13 @@
+ pages:
+    - name: Home
+      slug: /
+    - name: Ubicación
+    - name: Fecha y Hora
+    - name: Itinerario
+    - name: Padrinos
+    - name: Mesa De Regalos
+    - name: [Contacto](Contacto.md)
+
 ---
 layout: home
 profile_picture:
