@@ -1,7 +1,7 @@
 ---
-layout: Ubicacion
-title: Ubicacion
-slug: /Ubicacion 
+layout: work
+title: work
+slug: /work 
 items:
   - title: My Interest 1
     image:
