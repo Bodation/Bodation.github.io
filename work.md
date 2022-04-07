@@ -1,7 +1,7 @@
 ---
 layout: Ubicacion
-title: Ubicación
-slug: /work
+title: Ubicacion
+slug: /Ubicacion 
 items:
   - title: My Interest 1
     image:
