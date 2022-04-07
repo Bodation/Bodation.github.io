@@ -20,6 +20,7 @@ header:
     - name: Padrinos
     - name: Mesa De Regalos
     - name: Contacto
+    
 footer:
   show_powered_by: true
 
