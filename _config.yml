@@ -20,8 +20,8 @@ header:
 footer:
   show_powered_by: true
   contact:
-    - name: Aquí
-      value: yourmail@domain.com
+    - name: [Aquí](contacto.md)
+      value: 
 
   follow:
     - name: WhatsApp
